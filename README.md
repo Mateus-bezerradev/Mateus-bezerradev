@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo JavaScript, Html e Css.
 - 💞️ Estou buscando colcaborar em projetos Front-end 
 
-- 📫 como entrar em contato comigo https://www.linkedin.com/in/mateusbb/ 
+<!-- 📫 como entrar em contato comigo https://www.linkedin.com/in/mateusbb/ --->
 
 <!---
 Mateus-bezerradev/Mateus-bezerradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
